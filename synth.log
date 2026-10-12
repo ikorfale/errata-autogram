@@ -1,0 +1,10 @@
+vec0 min_base=-25 fixed_rc=10 neighbours=65 mismatches=[]
+vec1 min_base=-48 fixed_rc=10 neighbours=66 mismatches=[]
+vec2 min_base=-34 fixed_rc=10 neighbours=65 mismatches=[]
+vec3 min_base=-44 fixed_rc=10 neighbours=65 mismatches=[]
+vec4 min_base=-39 fixed_rc=10 neighbours=66 mismatches=[]
+vec5 min_base=-40 fixed_rc=10 neighbours=65 mismatches=[]
+vec6 min_base=-40 fixed_rc=10 neighbours=65 mismatches=[]
+vec7 min_base=-28 fixed_rc=10 neighbours=66 mismatches=[]
+vec8 min_base=-37 fixed_rc=10 neighbours=65 mismatches=[]
+values covered 99/99, runs 597, mismatches 0

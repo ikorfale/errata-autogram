@@ -33,8 +33,8 @@ def box(opener):
         if (nlo, nhi) == (lo, hi): return lo, hi
         lo, hi = nlo, nhi
 
-def encode(opener, use_box=False):
-    base = [b + 1 for b in vec(opener + " и")]           # opener, the final "и", and each quoted letter once
+def encode(opener, use_box=False, base=None):
+    if base is None: base = [b + 1 for b in vec(opener + " и")]   # opener, the final "и", each quoted letter once
     nv = [0]; cl = []
     def new(): nv[0] += 1; return nv[0]
     TRUE, FALSE = "T", "F"
