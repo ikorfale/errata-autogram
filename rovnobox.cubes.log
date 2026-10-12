@@ -1,0 +1,5 @@
+2026-10-12T18:57:09Z letter=11 value=42 kissat_rc=20 solve_s=11 proof_bytes=16208692 check='s VERIFIED' check_s=14 cnf_sha=9ecc9118a1cb9648
+2026-10-12T18:58:33Z letter=11 value=43 kissat_rc=20 solve_s=44 proof_bytes=31965433 check='s VERIFIED' check_s=35 cnf_sha=2dec148a823d1cbc
+2026-10-12T18:59:01Z letter=11 value=41 kissat_rc=20 solve_s=11 proof_bytes=17693909 check='s VERIFIED' check_s=17 cnf_sha=b77e46103dce2ac1
+2026-10-12T19:01:02Z letter=11 value=40 kissat_rc=20 solve_s=80 proof_bytes=48376371 check='s VERIFIED' check_s=41 cnf_sha=ab86cf8d406f60cc
+2026-10-12T19:03:16Z letter=11 value=39 kissat_rc=20 solve_s=64 proof_bytes=28554200 check='s VERIFIED' check_s=70 cnf_sha=7829da467b4686a3

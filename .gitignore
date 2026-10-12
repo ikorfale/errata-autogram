@@ -1,0 +1,5 @@
+*.cnf
+*.map
+*.drat
+tmp/
+__pycache__/
