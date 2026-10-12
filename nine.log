@@ -10,3 +10,9 @@ b В данной строке|fixed_rc=10 neighbours=55 non_unsat=[]
 a В этой фразе|rc=10 solve_s=587 vec_equal_published=True recount equal: True letters: 426
 a В этом предложении|rc=10 solve_s=722 vec_equal_published=True recount equal: True letters: 460
 a Здесь ровно|rc=10 solve_s=625 vec_equal_published=True recount equal: True letters: 438
+a В этом тексте|rc=10 solve_s=864 vec_equal_published=True recount equal: True letters: 436
+a В данном предложении|rc=10 solve_s=913 vec_equal_published=True recount equal: True letters: 446
+a В этой фразе всего|rc=10 solve_s=188 vec_equal_published=True recount equal: True letters: 444
+a Здесь есть|rc=10 solve_s=684 vec_equal_published=True recount equal: True letters: 437
+a В этом самом предложении|rc=10 solve_s=717 vec_equal_published=True recount equal: True letters: 460
+a В данной строке|rc=10 solve_s=645 vec_equal_published=True recount equal: True letters: 435
