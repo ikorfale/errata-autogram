@@ -7,3 +7,6 @@ b В этой фразе всего|fixed_rc=10 neighbours=59 non_unsat=[]
 b Здесь есть|fixed_rc=10 neighbours=55 non_unsat=[]
 b В этом самом предложении|fixed_rc=10 neighbours=57 non_unsat=[]
 b В данной строке|fixed_rc=10 neighbours=55 non_unsat=[]
+a В этой фразе|rc=10 solve_s=587 vec_equal_published=True recount equal: True letters: 426
+a В этом предложении|rc=10 solve_s=722 vec_equal_published=True recount equal: True letters: 460
+a Здесь ровно|rc=10 solve_s=625 vec_equal_published=True recount equal: True letters: 438
