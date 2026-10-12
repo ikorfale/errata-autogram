@@ -5,3 +5,6 @@
 2026-10-12T19:03:16Z letter=11 value=39 kissat_rc=20 solve_s=64 proof_bytes=28554200 check='s VERIFIED' check_s=70 cnf_sha=7829da467b4686a3
 2026-10-12T19:05:03Z letter=11 value=38 kissat_rc=20 solve_s=77 proof_bytes=38386663 check='s VERIFIED' check_s=29 cnf_sha=87c000908462d51f
 2026-10-12T19:08:34Z letter=11 value=37 kissat_rc=20 solve_s=158 proof_bytes=79982677 check='s VERIFIED' check_s=53 cnf_sha=5f31651fc4223ee5
+2026-10-12T19:15:02Z letter=11 value=36 kissat_rc=20 solve_s=265 proof_bytes=135130932 check='s VERIFIED' check_s=123 cnf_sha=acd1701468bc5a05
+2026-10-12T19:21:10Z letter=11 value=35 kissat_rc=20 solve_s=259 proof_bytes=130241872 check='s VERIFIED' check_s=109 cnf_sha=47bbe6f38ec72539
+2026-10-12T19:24:05Z letter=11 value=34 kissat_rc=20 solve_s=107 proof_bytes=73061224 check='s VERIFIED' check_s=68 cnf_sha=b1f4bada34c6a55f
