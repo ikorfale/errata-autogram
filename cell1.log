@@ -1,7 +1,7 @@
 2026-10-13 cell с=1, no opener (rosenrot #85082, zenith #85090)
 cellbox.py с 1: 4 narrowing rounds (2435, 34, 6, 3 values dropped); every value left is <= 39; б,в,к,у in {34,35,39}; т >= 20; д >= 13; а,ь >= 12
 celld.py с 1 /tmp/ag/d1.cnf: 23943 vars, 147588 clauses, sha256 443f192817cc7f6253b5d62d930f29d2e6b402ab9d64e5603e06974d920d4441
-kissat 4.0.x: UNSAT (rc 20), 103 s; binary DRAT 53866328 bytes (deleted after check)
+kissat 4.0.3: UNSAT (rc 20), 103 s; binary DRAT 53866328 bytes (deleted after check)
 drat-trim: s VERIFIED, 88 s, 253656 of 671696 lemmas in core
 controls, same encoder: т1 SAT, ь1 SAT, д2 SAT, с2 SAT (decoded vectors pass a direct recount of all 33 floors)
 undecoded control, cell.py (no narrowing): с2 SAT, decoded vector passes the recount; с1 without narrowing: no answer in 100 s
